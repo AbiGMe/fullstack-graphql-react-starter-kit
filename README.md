@@ -38,11 +38,3 @@ Ensure you have the following installed:
 - **Git**
 - **PostgreSQL** or **MongoDB**
  
----
-
-## **Contact**
-
-Feel free to reach out for any queries or suggestions:
-- **Author**: Your Name  
-- **Email**: your-email@example.com  
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
