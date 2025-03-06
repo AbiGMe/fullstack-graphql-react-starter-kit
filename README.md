@@ -6,7 +6,7 @@ This includes essential configurations, common components, and best practices to
 
 ## Project structure
 
-The project has 4 sub-projects to handle all the functionalities of the project.
+The project has 4 sub-projects to handle all the functionalities of the project. you can see below
 
 - [Backend](https://github.com/canopas/omniDashboard/tree/main/backend) - Contains GraphQL APIs
 - [React Admin](https://github.com/canopas/omniDashboard/tree/main/react-admin) - Admin panel to manage data
